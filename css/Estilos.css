@@ -152,7 +152,7 @@ html{
 }
 
 .category-pantalones{
-    background-image: linear-gradient(90deg, rgb(211, 211, 211) 0%, rgb(133, 133, 175) 32%, rgb(167, 204, 211) 82%), url(../img/pantalones.jpg);
+    background-image: url(../img/pantalones.jpg);
     background-size: cover;/*Se acopla la imagen de fondo al espacio de la sección*/
     background-position: center; /*Modificar la posición del foto de la imagen o la ´parte que queremos que se vea*/
     background-repeat: no-repeat; /*No se repita la imagen*/
